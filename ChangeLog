@@ -1,2 +1,4 @@
 2022-10-08 Fred Gleason <fredg@paravelsystems.com>
 	* Initial package generation from old site.
+2022-10-08 Fred Gleason <fredg@paravelsystems.com>
+	* Added sample Apache configs in 'conf/'.
