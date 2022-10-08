@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0053)http://www.salemradiolabs.com/rivendell/gallery.shtml -->
+<!-- $Id: gallery.shtml,v 1.2 2007/03/09 13:34:43 fredg Exp $ -->
+<HTML><HEAD>
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+<TITLE>Rivendell Gallery</TITLE>
+<STYLE>BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+DIV {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+P {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+A {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+I {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+DD {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+LI {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+</STYLE>
+
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.6000.16414" name=GENERATOR></HEAD>
+<BODY text=#9C0001 vLink=#9C0001 aLink=#9C0001 link=#9C0001 bgColor=#ffffff 
+leftMargin=0 topMargin=0 marginwidth="0" marginheight="0">
+<CENTER><A name=rivtop><!-- header and menu -->
+<div align="center">
+<TABLE height=70 cellSpacing=0 cellPadding=0 width=800 border=0 bordercolor="#9C0001" id="table6">
+  <TBODY>
+  <TR>
+    <TD vAlign=center width=10 bgColor=#9C0001>l</TD>
+    <TD vAlign=center align=left bgColor=#9C0001>
+	<IMG height=56 alt="" 
+      src="/images/Rivendell.PNG" width=195 border=0><font color="#FFFFFF">Open Source Radio Automation</font></TD>
+    <TD bgColor=#9C0001 width="208">
+	<p align="left"><b><font color="#FFFFFF" size="3">RIVENDELL </font></b>
+	<font size="3" color="#FFFFFF"><b>GALLERY</b></font></TD>
+    <TD vAlign=center width=50 bgColor=#9C0001>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD></TR></TBODY></TABLE>
+	</div>
+<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 align=center 
+bgColor=#ffffff border=0 id="table7">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle>&nbsp;</TD></TR></TBODY></TABLE>
+<div align="center">
+<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 
+bgColor=#9C0001 border=0 id="table8">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle><IMG height=4 alt="" 
+      src="Index_files/bluechip.gif" width=4 border=0></TD></TR></TBODY></TABLE>
+</div>
+<div align="center">
+<!--#include virtual="/common/navbar.html" -->
+<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 align=center 
+bgColor=#9C0001 border=0 id="table10">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle><IMG height=4 alt="" 
+      src="Index_files/bluechip.gif" width=4 border=0></TD></TR></TBODY></TABLE><!-- end submenu --><BR>
+<TABLE cellSpacing=0 cellPadding=0 width=500 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD align=middle><FONT color=#9C0001 size=4><B>Screen Shot 
+      Gallery</B></FONT> <BR><FONT color=#000000 size=2><I>Click on thumbnail to 
+      see full image in new window.</I></FONT> </TD></TR></TBODY></TABLE><BR>
+<TABLE cellSpacing=1 cellPadding=0 width=770 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=left>
+      <HR>
+      <FONT color=#9C0001 size=4><B>RDAdmin</B></FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=5 width=700 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=middle width=125>
+	<a target="_blank" href="/images/rdadmin1.png">
+	<IMG height=216 alt="RDAdmin Main Menu" 
+      src="/images/rdadmin1th.jpg" width=173 border=0></a></TD>
+    <TD vAlign=center align=middle>
+	<a target="_blank" name="rivtop" href="/images/rdadmin2.png">
+	<IMG height=216 alt="RDAdmin User Editor" 
+      src="/images/rdadmin2th.jpg" width=167 border=0></a></TD>
+    <TD vAlign=center align=middle>
+	<a href="/images/rdadmin3.png" target="_blank"><IMG height=216 alt="RDAdmin Serial Switcher Config" 
+      src="/images/rdadmin3th.jpg" width=168 border=0></a></TD>
+    <TD vAlign=center align=middle>
+	<a target="_blank" href="/images/rdadmin4.png">
+	<IMG height=134 alt="RDAdmin Audio Port Config" 
+      src="/images/rdadmin4th.jpg" width=216 
+  border=0></a></TD></TR>
+  <TR>
+    <TD vAlign=top align=middle><FONT color=#9C0001 size=2><B>RDAdmin Main 
+      Menu</B></FONT> <BR><FONT color=#000000 size=2>All configuration done by 
+      point-n-click interfaces -- no arcane configuration files to 
+    edit!</FONT></TD>
+    <TD vAlign=top align=middle><FONT color=#9C0001 size=2><B>RDAdmin User 
+      Editor</B></FONT> <BR><FONT color=#000000 size=2>Comprehensive and 
+      configurable security, on a user-by-user basis.</FONT></TD>
+    <TD vAlign=top align=middle><FONT color=#9C0001 
+      size=2><B>RDAdmin&nbsp;Serial&nbsp;Switcher&nbsp;Config</B></FONT><BR><FONT 
+      color=#000000 size=2>Direct integration with a wide line of broadcast 
+      switchers and satellite receivers. </FONT></TD>
+    <TD vAlign=top align=middle><FONT color=#9C0001 size=2><B>RDAdmin 
+      Audio&nbsp;Port&nbsp;Config</B></FONT><font color="#9C0001"> </font> <BR><FONT color=#000000 
+      size=2>Digital ready, with full support for both analog and AES3 digital 
+      audio ports. </FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=0 width=770 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=left>
+      <HR>
+      <FONT color=#9C0001 size=4><B>RDLogEdit</B></FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=5 width=700 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle>
+      <TABLE width=500 align=center>
+        <TBODY>
+        <TR>
+          <TD vAlign=top align=middle>
+			<a href="/images/rdlogedit1.png" target="_blank">
+			<IMG height=171 alt="RDLogEdit Main Screen" 
+            src="/images/rdlogedit1th.jpg" width=216 
+            border=0></a> <BR><FONT color=#9C0001 size=2><B>RDLogEdit Main 
+            Screen</B></FONT></TD>
+          <TD vAlign=top align=middle>
+			<a target="_blank" href="/images/rdlogedit2.png">
+			<IMG height=169 alt="RDLogEdit Log Editor" 
+            src="/images/rdlogedit2th.jpg" width=216 
+            border=0></a> <BR><FONT color=#9C0001 size=2><B>RDLogEdit Log 
+            Editor</B></FONT> </TD></TR>
+        <TR>
+          <TD vAlign=top align=middle colSpan=2><BR><FONT color=#000000 
+            size=2>Program log editing at your 
+      fingertips!</FONT></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=top align=middle>
+      <TABLE align=center></TR>
+        <TBODY>
+        <TR>
+          <TD vAlign=center align=middle width=216>
+			<a href="/images/rdlogedit3.png" target="_blank">
+			<IMG height=97 alt="RDLogEdit Event Editor" 
+            src="/images/rdlogedit3th.jpg" width=216 
+            border=0></a> <FONT color=#9C0001 size=2><B>RDLogEdit Event 
+            Editor</B></FONT></TD></TR>
+        <TR>
+          <TD vAlign=center align=middle width=216><BR>
+			<a href="/images/rdlogedit4.png" target="_blank">
+			<IMG height=97 alt="RDLogEdit Marker Editor" 
+            src="/images/rdlogedit4th.jpg" width=216 
+            border=0></a> <FONT color=#9C0001 size=2><B>RDLogEdit Marker 
+            Editor</B></FONT> </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=0 width=770 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=left>
+      <HR>
+      <FONT color=#9C0001 size=4><B>RDLibrary</B></FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=5 width=700 align=center border=0></TD>
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle width=250>
+	<a href="/images/rdlibrary1.png" target="_blank">
+	<IMG height=169 alt="RDLibrary Main Menu" 
+      src="/images/rdlibrary1th.jpg" width=216 border=0></a> 
+      <BR><FONT color=#9C0001 size=2><B>RDLibrary Main Menu</B></FONT> <BR><FONT 
+      color=#000000 size=2>The Production Department's view of the audio 
+      library.</FONT></TD>
+    <TD vAlign=top align=middle><a href="/images/rdlibrary3.png" target="_blank">
+	<IMG height=183 alt="RDLibrary Cut Marker Editor" 
+      src="/images/rdlibrary3th.jpg" width=216 border=0></a> 
+      <BR><FONT color=#9C0001 size=2><B>RDLibrary Cut Marker Editor</B></FONT> 
+      <BR><FONT color=#000000 size=2>Full support for segues, talk timers and 
+      other transition features. </FONT></TD></TR>
+  <TR>
+    <TD vAlign=top align=middle width=250>
+	<a href="/images/rdlibrary2.png" target="_blank">
+	<IMG height=216 alt="RDLibrary Cart Editor" 
+      src="/images/rdlibrary2th.jpg" width=193 border=0></a> 
+      <BR><FONT color=#9C0001 size=2><B>RDLibrary Cart Editor</B></FONT> 
+      <BR><FONT color=#000000 size=2>Each cart event can contain up to one 
+      thousand cuts, making rotator events a snap. </FONT></TD>
+    <TD vAlign=center align=middle>
+      <TABLE align=center></TR>
+        <TBODY>
+        <TR>
+          <TD vAlign=center align=middle width=180>
+			<a href="/images/rdlibrary4.png" target="_blank">
+			<IMG height=216 alt="RDLibrary Cut Recorder" 
+            src="/images/rdlibrary4th.jpg" width=138 
+            border=0></a> <FONT color=#9C0001 size=2><B>RDLibrary Cut 
+            Recorder</B></FONT> <BR><FONT color=#000000 size=2>A "digital cart 
+            machine" for inputting audio.</FONT> </TD>
+          <TD vAlign=center align=middle width=180>
+			<a href="/images/rdlibrary5.png" target="_blank">
+			<IMG height=216 alt="RDLibrary CD Ripper" 
+            src="/images/rdlibrary5th.jpg" width=174 
+            border=0></a> <FONT color=#9C0001 size=2><B>RDLibrary CD 
+            Ripper</B></FONT> <BR><FONT color=#000000 size=2>Full FreeDB support 
+            -- no more typing Song Titles or Artist Info.</FONT> 
+      </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=0 width=770 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=left>
+      <HR>
+      <FONT color=#9C0001 size=4><B>RDAirPlay</B></FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=5 width=600 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle width=300>
+	<a href="/images/rdairplay1.png" target="_blank">
+	<IMG height=156 alt="RDAirPlay with Main Log" 
+      src="/images/rdairplay1th.jpg" width=216 border=0></a> 
+      <BR><FONT color=#9C0001 size=2><B>RDAirPlay with Main Log</B></FONT> 
+      <BR><FONT color=#000000 size=2>A full range of on-air control for both 
+      live-assist and walk-away operations.</FONT></TD>
+    <TD vAlign=top align=middle width=300>
+	<a href="/images/rdairplay2.png" target="_blank">
+	<IMG height=156 alt="RDAirPlay with Sound Panel" 
+      src="/images/rdairplay2th.jpg" width=216 border=0></a> 
+      <BR><FONT color=#9C0001 size=2><B>RDAirPlay with Sound Panel</B></FONT><font color="#9C0001">
+	</font> 
+      <BR><FONT color=#000000 size=2>SoundPanel hotkeys for dropping in 
+      incidental elements.</FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=0 width=770 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=left>
+      <HR>
+      <FONT color=#9C0001 size=4><B>RDCatch</B></FONT></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=5 width=600 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle width=300>
+	<a href="/images/rdcatch1.png" target="_blank">
+	<IMG height=169 alt="RDCatch Main Screen" 
+      src="/images/rdcatch1th.jpg" width=216 border=0></a> 
+      <BR><FONT color=#9C0001 size=2><B>RDCatch Main Screen</B></FONT> <BR><FONT 
+      color=#000000 size=2>Industrial strength audio netcatching.</FONT></TD>
+    <TD vAlign=top align=middle width=300>
+	<a href="/images/rdcatch2.png" target="_blank">
+	<IMG height=146 alt="RDCatch Event Editor" 
+      src="/images/rdcatch2th.jpg" width=216 border=0></a> 
+      <BR><FONT color=#9C0001 size=2><B>RDCatch Event Editor</B></FONT> 
+      <BR><FONT color=#000000 size=2>Automated Recording on the basis of time, GPI closure 
+      or both.</FONT></TD></TR></TBODY></TABLE><BR>&nbsp;<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 align=center 
+bgColor=#9C0001 border=0 id="table11">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle><font color="#9C0001"><IMG height=4 alt="" 
+      src="Index_files/bluechip.gif" width=4 border=0></font></TD></TR></TBODY></TABLE>
+<div align="center">
+<!--#include virtual="/common/navbar.html" -->
+<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 align=center 
+bgColor=#9C0001 border=0 id="table13">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle><IMG height=4 alt="" 
+      src="Index_files/bluechip.gif" width=4 border=0></TD></TR></TBODY></TABLE><FONT 
+face=Arial,san-serif color=#000000 size=1>© Copyright 2007 Paravel Systems. All rights reserved. Contact the </FONT> <FONT 
+face=Arial,san-serif color=#000000 size=1> <FONT size=1>
+<a href="mailto:webmaster@paravelsystems.com"><span style="font-size: 8pt">Webmaster</span></a></FONT> with 
+any questions or comments.</FONT> </CENTER></BODY></HTML>

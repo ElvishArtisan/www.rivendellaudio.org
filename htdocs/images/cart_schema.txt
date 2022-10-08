@@ -1,0 +1,66 @@
+                  Cart Database Schema for Rivendell
+                             Version 0.1
+
+The CARTS table holds data concerning all of the available audio
+selections in a Rivendell system that are capable of being
+individually scheduled.  Following is the layout of a record
+in the CARTS table:
+
+DESCRIPTION          TYPE    LENGTH   REMARKS
+---------------------------------------------------------------
+Cart Number          char       6     Range 000000 - 999999 
+Title                char     256
+Artist               char     256
+Album Name           char     256
+Release Year         date       8     
+ISRC Code            char      12     International Standard Recording Code 
+Record Label         char      64
+Client               char      64
+Agency               char      64
+User Defined         char     256     For use by local user
+Enforced Length      int        4     Playout this length, 0 = don't timeshift
+Number of Cuts       int        4     > 1 for rotators
+Last Cut Played      int        4     Offset for rotators
+Rotator Play Order   int        4     0 = Sequence, 1 = Random
+Start Date/Time      datetime  20     
+End Date/Time        datetime  20     
+
+
+
+The CUTS table holds data concerning each individual audio cut on the
+system, as opposed to CARTS, where individual entries may reference
+more than one cut (as in the case of rotators).  Following is the
+layout of a record in the CUTS table:
+
+DESCRIPTION          TYPE    LENGTH   REMARKS
+---------------------------------------------------------------
+Cut ID               char      12   * Base name of WAV file
+Cart Number          char       6     Parent Cart Entry
+Out Cue		     char      64
+Length               int        4     Overall length in 1/100 seconds.
+Origin Date/Time     datetime  20     Date/Time when recorded
+Origin Station ID    char      64     Station ID where recorded
+Format Tag           int        4     0 = PCM16, 2 = Layer-2, 3 = Layer-3 
+Sample Rate          int        4     In samples/sec
+Channels             int        4     1 = mono, 2 = stereo
+Start Cuepoint       int        4     Offset to Start point in 1/100 seconds
+FadeUp Cuepoint      int        4     Offset to FadeUp point in 1/100 seconds
+FadeDown Cuepoint    int        4     Offset to FadeDown point in 1/100 seconds
+End Cuepoint         int        4     Offset to End point in 1/100 seconds
+PRI Cuepoint         int        4     Offset to PRI point in 1/100 seconds
+SEC Cuepoint         int        4     Offset to SEC point in 1/100 seconds
+TER Cuepoint         int        4     Offset to TER point in 1/100 seconds
+
+
+* Names of WAV files are calculated as follows:
+
+    CCCCCC_NNN.wav
+
+  where:
+    CCCCCC = The cart number (000000 - 999999)
+       NNN = The rotator offset (000 - 999)
+
+  Thus, we can accomodate up to 1000 cuts in a single rotator.  The
+  base name is that part of the name prior to '.wav'.
+
+

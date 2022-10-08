@@ -1,0 +1,707 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0054)http://www.salemradiolabs.com/rivendell/download.shtml -->
+<!-- $Id: download.shtml,v 1.4 2007/03/28 12:15:51 fredg Exp $ -->
+<HTML><HEAD>
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+<TITLE>Rivendell Download</TITLE>
+<STYLE>BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+DIV {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+P {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+A {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+I {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+DD {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+LI {
+	FONT-SIZE: 10pt; FONT-FAMILY: arial,sans-serif
+}
+</STYLE>
+
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.6000.16414" name=GENERATOR></HEAD>
+<BODY text=#9C0001 vLink=#9C0001 aLink=#9C0001 link=#9C0001 bgColor=#ffffff 
+leftMargin=0 topMargin=0 marginwidth="0" marginheight="0">
+<CENTER>
+
+
+<!-- header and menu -->
+<div align="center">
+
+<TABLE height=70 cellSpacing=0 cellPadding=0 width=800 border=0 bordercolor="#9C0001" id="table6">
+  <TBODY>
+  <TR>
+    <TD vAlign=center width=10 bgColor=#9C0001>l</TD>
+    <TD vAlign=center align=left bgColor=#9C0001>
+	<IMG height=56 alt="" 
+      src="/images/Rivendell.PNG" width=195 border=0><font color="#FFFFFF">Open Source Radio Automation</font></TD>
+    <TD bgColor=#9C0001 width="217">
+	<p align="left"><b><font color="#FFFFFF" size="3">RIVENDELL </font></b>
+	<font size="3" color="#FFFFFF"><b>DOWNLOAD</b></font></TD>
+    <TD vAlign=center width=50 bgColor=#9C0001>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD></TR></TBODY></TABLE>
+	</div>
+<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 align=center 
+bgColor=#ffffff border=0 id="table7">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle>&nbsp;</TD></TR></TBODY></TABLE>
+<div align="center">
+<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 
+bgColor=#9C0001 border=0 id="table8">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle><IMG height=4 alt="" 
+      src="Index_files/bluechip.gif" width=4 border=0></TD></TR></TBODY></TABLE>
+</div>
+<div align="center">
+<!--#include virtual="/common/navbar.html" -->
+<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 align=center 
+bgColor=#9C0001 border=0 id="table10">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle><IMG height=4 alt="" 
+      src="Index_files/bluechip.gif" width=4 border=0></TD></TR></TBODY></TABLE><!-- end submenu --><BR>
+<TABLE cellSpacing=0 cellPadding=0 width=750 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=middle colSpan=3><FONT size=5 color="#9C0001"><B>Rivendell 
+      Download Files -- Release <!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseVersion@" --></B></FONT></TD></TR></TBODY></TABLE>
+
+<!-- SuSE 9.2 Section -->
+<TABLE cellSpacing=0 cellPadding=0 width=750 align=center border=0><TBODY>
+   <TR>
+   <TD vAlign=center align=middle colSpan=4><FONT size=4
+color="#9C0001"><B>Binary Packages -- SuSE 9.2</B></FONT><BR></TD></tr>
+   <TR>
+   <TD vAlign=center align=middle>
+   <TABLE cellSpacing=0 cellPadding=2 width=750 align=center border=1>
+                    <TBODY>
+                    <TR>
+                      <TD vAlign=center align=middle width=100 rowSpan=10><A 
+                        href="http://www.opensuse.org/">
+						<IMG height=43 
+                        alt=Suse src="/images/suse_logo.png" 
+                        width=60 border=0></A></TD>
+                      <TD width=230><A 
+                        href="/ftpdocs/rivendell/suse/92/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+						<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                      <TD width=390><FONT color=#000000 size=2>Rivendell RPM 
+                        Package for SuSE 9.2</FONT></TD></TR>
+                    <TR>
+                      <TD width=230><A 
+                        href="/ftpdocs/rivendell/suse/92/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-web-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+						<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-web-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                      <TD width=390><FONT color=#000000 size=2>Rivendell Web Components</FONT></TD></TR>
+                    <TR>
+                      <TD width=230><A 
+                        href="/ftpdocs/rivendell/suse/92/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-importers-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+						<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-importers-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                      <TD width=390><FONT color=#000000 size=2>Rivendell Data 
+                        Import Filters</FONT></TD></TR>
+                    <TR>
+                      <TD width=230><A 
+                        href="/ftpdocs/rivendell/suse/92/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-devel-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+						<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-devel-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                      <TD width=390><FONT color=#000000 size=2>Rivendell Loadable Module SDK</FONT></TD></TR>
+                    <TR>
+                      <TD width=230><A 
+                        href="/ftpdocs/amb-ux/suse/92/<!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+						<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                      <TD width=390><FONT color=#000000 size=2>AMB-OS File Importer Utility for SuSE 9.2</FONT></TD></TR>
+                    <TR>
+                      <TD width=230><A 
+                        href="/ftpdocs/sox/suse/92/<!--#include virtual="/cgi-bin/asub.cgi?Sox @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+						<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Sox @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                      <TD width=390><FONT color=#000000 size=2>SOX Sound 
+                        Exchange Utility for SuSE 9.2</FONT></TD></TR>
+                    <TR>
+                      <TD width=230><A 
+                        href="/ftpdocs/audioscience/suse/92/<!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion92@_@DefaultKernel92@-@RpmVersion92@.i586.rpm" -->"><B>
+						<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion92@_@DefaultKernel92@-@RpmVersion92@.i586.rpm" --></font></B></A></TD>
+                      <TD width=390><FONT color=#000000 size=2>AudioScience 
+                        HPI Driver RPM Package for Default Kernel</FONT></TD></TR>
+                    <TR>
+                      <TD width=230><A 
+                        href="/ftpdocs/audioscience/suse/92/<!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion92@_@SmpKernel92@-@RpmVersion92@.i586.rpm" -->"><B>
+						<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion92@_@SmpKernel92@-@RpmVersion92@.i586.rpm" --></font></B></A></TD>
+                      <TD width=390><FONT color=#000000 size=2>AudioScience 
+                        HPI Driver RPM Package for SMP Kernel</FONT></TD></TR>
+                    <TR>
+                      <TD width=230><A 
+                        href="/ftpdocs/gpio/suse/92/<!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@_@DefaultKernel92@-@RpmVersion@.i586.rpm" -->"><B>
+						<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@_@DefaultKernel92@-@RpmVersion@.i586.rpm" --></font></B></A></TD></TD>
+                      <TD width=390><FONT color=#000000 
+                        size=2>MeasurementComputing GPIO Driver RPM Package for 
+                        Default Kernel</FONT></TD></TR>
+                    <TR>
+                      <TD width=230><A 
+                        href="/ftpdocs/gpio/suse/92/<!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@_@SmpKernel92@-@RpmVersion@.i586.rpm" -->"><B>
+						<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@_@SmpKernel92@-@RpmVersion@.i586.rpm" --></font></B></A></TD></TD>
+                      <TD width=390><FONT color=#000000 
+                        size=2>MeasurementComputing GPIO Driver RPM Package for 
+                        SMP Kernel</FONT></TD></TR></TBODY></TABLE><BR>
+
+
+<!-- SuSE 10.0 Section -->
+   <TR>
+   <TD vAlign=center align=middle colSpan=4><FONT size=4
+color="#9C0001"><B>Binary Packages -- SuSE 10.0</B></FONT><BR></TD></tr>
+   <TR>
+   <TD vAlign=center align=middle>
+<TABLE cellSpacing=0 cellPadding=0 width=750 
+                        align=center border=0>
+                          <TBODY>
+                          <TR>
+                            <TD vAlign=center align=middle>
+                              <TABLE cellSpacing=0 cellPadding=2 width=750 
+                              align=center border=1>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle width=100 
+                                rowSpan=12><A 
+                                href="http://www.opensuse.org/">
+								<IMG 
+                                height=43 alt=Suse 
+                                src="/images/suse_logo.png" 
+                                width=60 border=0></A></TD>
+                                <TD width=230><A 
+                                href="/ftpdocs//rivendell/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell RPM Package for SuSE 
+                                10.0</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-web-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-web-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell Web Components</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-importers-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-importers-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell Data Import 
+                                Filters</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+
+href="/ftpdocs/rivendell/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-devel-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-devel-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell Loadable Module SDK</FONT></TD></TR>
+				<TR>
+				<TD width=230><A href="/ftpdocs/amb-ux/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+				<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+				<TD width=390><FONT color=#000000 size=2>AMB-OS File Importer Utility for SuSE 10.0</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/sox/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Sox @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Sox @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>SOX 
+                                Sound Exchange Utility for SuSE 
+                                10.0</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/other/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Mad @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Mad @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>LibMAD 
+                                RPM Package for SuSE 10.0</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/other/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Mpg321 @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Mpg321 @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>MPG321 
+                                RPM Package for SuSE 10.0</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/audioscience/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion@_@DefaultKernel100@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion@_@DefaultKernel100@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>AudioScience HPI Driver RPM Package for 
+                                Default Kernel</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/audioscience/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion@_@SmpKernel100@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion@_@SmpKernel100@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>AudioScience HPI Driver RPM Package for 
+                                SMP Kernel</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/gpio/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@_@DefaultKernel100@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@_@DefaultKernel100@-@RpmVersion@.i586.rpm" --></font></B></A></TD></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>MeasurementComputing GPIO Driver RPM 
+                                Package for Default Kernel</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/gpio/suse/100/<!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@_@SmpKernel100@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@_@SmpKernel100@-@RpmVersion@.i586.rpm" --></font></B></A></TD></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>MeasurementComputing GPIO Driver RPM 
+                                Package for SMP Kernel</FONT></TD></TR>
+                                <TR>
+                                <TD colSpan=3><font color="#000000"><STRONG>IMPORTANT NOTE:</STRONG> 
+                                Before installing the base Rivendell packages, 
+                                you will need to install the LibMAD and MPG321 
+                                packages, available 
+                              above.</font></TD></TR></TBODY></TABLE><BR>
+
+
+
+<!-- SuSE 10.2 Section -->
+   <TR>
+   <TD vAlign=center align=middle colSpan=4><FONT size=4
+color="#9C0001"><B>Binary Packages -- SuSE 10.2</B></FONT><BR></TD></tr>
+   <TR>
+   <TD vAlign=center align=middle>
+<TABLE cellSpacing=0 cellPadding=0 width=750 
+                        align=center border=0>
+                          <TBODY>
+                          <TR>
+                            <TD vAlign=center align=middle>
+                              <TABLE cellSpacing=0 cellPadding=2 width=750 
+                              align=center border=1>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle width=100 
+                                rowSpan=10><A 
+                                href="http://www.opensuse.org/">
+								<IMG 
+                                height=43 alt=Suse 
+                                src="/images/suse_logo.png" 
+                                width=60 border=0></A></TD>
+                                <TD width=230><A 
+                                href="/ftpdocs//rivendell/suse/102/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell RPM Package for SuSE 
+                                10.2</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/suse/102/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-web-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-web-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell Web Components</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/suse/102/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-importers-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-importers-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell Data Import 
+                                Filters</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+
+href="/ftpdocs/rivendell/suse/102/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-devel-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font
+color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-devel-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell Loadable Module SDK</FONT></TD></TR>
+				<TR>
+				<TD width=230><A href="/ftpdocs/amb-ux/suse/102/<!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+				<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+				<TD width=390><FONT color=#000000 size=2>AMB-OS File Importer Utility for SuSE 10.2</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/sox/suse/102/<!--#include virtual="/cgi-bin/asub.cgi?Sox @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Sox @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>SOX 
+                                Sound Exchange Utility for SuSE 
+                                10.2</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/other/suse/102/<!--#include virtual="/cgi-bin/asub.cgi?Mad @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Mad @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>LibMAD 
+                                RPM Package for SuSE 10.2</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/other/suse/102/<!--#include virtual="/cgi-bin/asub.cgi?Mpg321 @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Mpg321 @BaseName@-@BaseVersion@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>MPG321 
+                                RPM Package for SuSE 10.2</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/audioscience/suse/102/<!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion@_@DefaultKernel102@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion@_@DefaultKernel102@-@RpmVersion@.i586.rpm" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>AudioScience HPI Driver RPM Package for 
+                                Default Kernel</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/gpio/suse/102/<!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@_@DefaultKernel102@-@RpmVersion@.i586.rpm" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@_@DefaultKernel102@-@RpmVersion@.i586.rpm" --></font></B></A></TD></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>MeasurementComputing GPIO Driver RPM 
+                                Package for Default Kernel</FONT></TD></TR>
+                                <TR>
+                                <TD colSpan=3><font color="#000000"><STRONG>IMPORTANT NOTE:</STRONG> 
+                                Before installing the base Rivendell packages, 
+                                you will need to install the LibMAD and MPG321 
+                                packages, available 
+                              above.</font></TD></TR></TBODY></TABLE><BR>
+
+
+
+<!-- Win32 Section -->
+   <TR>
+   <TD vAlign=center align=middle colSpan=4><FONT size=4
+color="#9C0001"><B>Binary Packages -- Win32</B></FONT><BR></TD></tr>
+   <TR>
+   <TD vAlign=center align=middle>
+                              <TABLE cellSpacing=0 cellPadding=0 width=750 
+                              align=center border=0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle>
+                                <TABLE cellSpacing=0 cellPadding=2 width=750 
+                                align=center border=1>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle width=100 
+                                rowSpan=2><FONT color=#000000 
+                                size=4><B>Win32</B></FONT></TD>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/win32/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@-@WinVersion@.exe" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@-@WinVersion@.exe" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell Setup for Win32 (<EM>RDLogEdit, 
+                                RDLogManager and 
+                                RMLSend</EM>)</FONT></TD></TR></TBODY></TABLE><BR></TD></TR>
+
+
+<!-- LiveCD Section --></TBODY></TABLE>
+   <TR>
+   <TD vAlign=center align=middle colSpan=4><FONT size=4
+color="#9C0001"><B>Bootable Demo CD</B></FONT><BR></TD></tr>
+   <TR>
+   <TD vAlign=center align=middle>
+                              <TABLE cellSpacing=0 cellPadding=0 width=750 
+                              align=center border=0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle>
+                                <TABLE cellSpacing=0 cellPadding=2 width=750 
+                                align=center border=1>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle width=100 
+                                rowSpan=3><FONT color=#000000 
+                                size=4><B>LiveCD</B></FONT></TD>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/livecd/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-demo-@LiveCdVersion@.iso" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-demo-@LiveCdVersion@.iso" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Complete, Bootable Rivendell Demo 
+                                CD</FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/livecd/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-demo-@LiveCdVersion@.iso.md5" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-demo-@LiveCdVersion@.iso.md5" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>MD5 
+                                Checksum File for 
+                                LiveCD</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR>
+
+
+
+<!-- Documentation Section -->
+                              <TABLE cellSpacing=0 cellPadding=0 width=750 
+                              align=center border=0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle colSpan=4>
+								<FONT 
+                                size=4 color="#9C0001"><B>Documentation</B></FONT><BR></TD>
+                                <TR>
+                                <TD vAlign=center align=middle>
+                                <TABLE cellSpacing=0 cellPadding=2 width=750 
+                                align=center border=1>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle width=100 
+                                rowSpan=6><FONT color=#000000 
+                                size=4><B>Docs</B></FONT></TD>
+                                <TD width=230><A 
+
+href="/ftpdocs/rivendell/docs/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell rog-@RogVersion@.pdf" -->"><B>
+								<font
+color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell rog-@RogVersion@.pdf" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>The 
+                                Rivendell Operations Guide in PDF 
+                                format</FONT></TD>
+                                </TR>
+
+                                <TR>
+                                <TD width=230><A 
+
+href="/ftpdocs/rivendell/docs/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell rog-@RogVersion@.odt" -->"><B>
+								<font
+color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell rog-@RogVersion@.odt" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>The 
+                                Rivendell Operations Guide in <A 
+                                href="http://www.opendocumentfellowship.org/">OpenDocument 
+                                format</A></FONT></TD>
+                                </TR>
+
+                                <TR>
+                                <TD width=230><A 
+                                href="/appnotes/appnote0001.pdf"><B>
+				<font color="#9C0001">appnote0001.pdf</font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>Application Note 1 -- Installing Rivendell on SuSE</FONT></TD>
+                                </TR>
+
+                                <TR>
+                                <TD width=230><A 
+                                href="/appnotes/appnote0002.pdf"><B>
+				<font color="#9C0001">appnote0002.pdf</font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>Application Note 2 -- Configuring ELO Touchscreens on SuSE</FONT></TD>
+                                </TR>
+
+                                <TR>
+                                <TD width=230><A 
+                                href="/appnotes/appnote0003.pdf"><B>
+				<font color="#9C0001">appnote0003.pdf</font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>Application Note 3 -- Configuring Rivendell Hot Standby Hosts on SuSE</FONT></TD>
+                                </TR>
+
+                                <TR>
+                                <TD width=230><A 
+                                href="/appnotes/appnote0004.pdf"><B>
+				<font color="#9C0001">appnote0004.pdf</font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>Application Note 4 -- Building Rivendell on SuSE Linux from CVS</FONT></TD>
+                                </TR>
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE><BR>
+
+
+<!-- Promo Section --></TBODY></TABLE>
+   <TR>
+   <TD vAlign=center align=middle colSpan=4><FONT size=4
+color="#9C0001"><B>Promotional Materials</B></FONT><BR></TD></tr>
+   <TR>
+   <TD vAlign=center align=middle>
+                              <TABLE cellSpacing=0 cellPadding=0 width=750 
+                              align=center border=0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle>
+                                <TABLE cellSpacing=0 cellPadding=2 width=750 
+                                align=center border=1>
+                                <TBODY>
+
+                                <TR>
+                                <TD vAlign=center align=middle width=100 
+                                rowSpan=3><FONT color=#000000 
+                                size=4><B>Promos</B></FONT></TD>
+                                <TD width=230><A href="/ftpdocs/rivendell/audio/Mixdown1.flac"><B>
+								<font color="#9C0001">Mixdown1.flac</font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell Audio Spot -- &quot;Never Pay&quot;</FONT></TD></TR>
+				
+                                <TR>
+                                <TD width=230><A href="/ftpdocs/rivendell/audio/Mixdown2.flac"><B>
+								<font color="#9C0001">Mixdown2.flac</font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell Audio Spot -- &quot;$15,000&quot;</FONT></TD></TR>
+
+                                <TR>
+                                <TD width=230><A href="/ftpdocs/rivendell/audio/Mixdown3.flac"><B>
+								<font color="#9C0001">Mixdown3.flac</font></B></A></TD>
+                                <TD width=390><FONT color=#000000 
+                                size=2>Rivendell Audio Spot -- &quot;Rock Steady&quot;</FONT></TD></TR>
+
+				
+				
+				</TBODY></TABLE><BR>
+
+
+
+<!-- Source Code Section -->
+                              <TABLE cellSpacing=0 cellPadding=0 width=750 
+                              align=center border=0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle colSpan=4>
+								<FONT 
+                                size=4 color="#9C0001"><B>Source Packages</B></FONT><BR><FONT \
+                                color=#000000 size=2><I>For the adventurous, 
+                                technically curious, or if your system is not on 
+                                the list above, the full sources are available 
+                                as well. At a minimum, you will need both the 
+                                Radio Library package and the Rivendell Base 
+                                package. Build prequisites and instructions are 
+                                in the INSTALL files.</I></FONT></TD></TR>
+                                <TR>
+                                <TD vAlign=center align=middle>
+                                <TABLE cellSpacing=0 cellPadding=2 width=750 
+                                align=center border=1>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle width=100 
+                                rowSpan=5><FONT color=#000000 
+                                size=4><B>Source<BR>Code</B></FONT></TD>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@.tar.gz" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@.tar.gz" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>Tar 
+                                Archive of Rivendell Base Source Distribution
+                                v<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseVersion@" --></FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@.zip" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BaseVersion@.zip" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>
+                                ZIP Archive of Rivendell Base Source Distribution v
+                                <!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseVersion@" --></FONT></TD></TR>
+
+                                <TR>
+                                <TD width=230><A
+				href="/ftpdocs/amb-ux/<!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseName@-@BaseVersion@.tar.gz" -->"><B>
+				<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseName@-@BaseVersion@.tar.gz" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>
+                                Archive of AMB-UX with statically linked executable v
+                                <!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseVersion@" --></FONT></TD></TR>
+
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/audioscience/<!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion@.tar.bz2" -->"><B>
+				<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BaseVersion@.tar.bz2" --></font></B></A></TD>
+
+                                <TD width=390><FONT color=#000000 size=2>Tar 
+                                Archive of AudioScience HPI Driver 
+                                <!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseVersion@" --></FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/gpio/<!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@.tar.gz" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BaseVersion@.tar.gz" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>Tar 
+                                Archive of MeasurementComputing GPIO Driver 
+                                v0.9.6</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><BR>
+
+
+<!-- Beta Code Section -->
+                              <TABLE cellSpacing=0 cellPadding=0 width=750 
+                              align=center border=0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle colSpan=4>
+								<FONT 
+                                size=4 color="#9C0001"><B>Release Candidate Packages</B></FONT><BR><FONT \
+                                color=#000000 size=2><I>Release Candidate source code and
+                                packages for the Rivendell 2.x system can be downloaded here.
+                                </I></FONT></TD></TR>
+                                <TR>
+                                <TD vAlign=center align=middle>
+                                <TABLE cellSpacing=0 cellPadding=2 width=750 
+                                align=center border=1>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle width=100 
+                                rowSpan=2><FONT color=#000000 
+                                size=4><B>Release Candidate<BR>Code</B></FONT></TD>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BetaVersion@.tar.gz" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BetaVersion@.tar.gz" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>Tar 
+                                Archive of Rivendell Release Candidate Source Distribution
+                                v<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BetaVersion@" --></FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/<!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BetaVersion@.zip" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BaseName@-@BetaVersion@.zip" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>
+                                ZIP Archive of Rivendell Beta Source Distribution v
+                                <!--#include virtual="/cgi-bin/asub.cgi?Rivendell @BetaVersion@" --></FONT></TD></TR>
+
+<!--
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/appliance/<!--#include virtual="/cgi-bin/asub.cgi?RDAppliance @BaseName@-DVD-@BaseVersion@.iso" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?RDAppliance @BaseName@-DVD-@BaseVersion@.iso" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>
+                                ISO DVD Image of Rivendell Appliance v
+                                <!--#include virtual="/cgi-bin/asub.cgi?RDAppliance @BaseVersion@" --></FONT></TD></TR>
+
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/rivendell/appliance/<!--#include virtual="/cgi-bin/asub.cgi?RDAppliance @BaseName@-DVD-@BaseVersion@.iso.md5" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?RDAppliance @BaseName@-DVD-@BaseVersion@.iso.md5" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>
+                                MD5 Checksum of ISO DVD Image of Rivendell Appliance v
+                                <!--#include virtual="/cgi-bin/asub.cgi?RDAppliance @BaseVersion@" --></FONT></TD></TR>
+
+                                <TR>
+                                <TD width=230><A
+				href="/ftpdocs/amb-ux/<!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseName@-@BetaVersion@.tar.gz" -->"><B>
+				<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BaseName@-@BetaVersion@.tar.gz" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>
+                                Archive of AMB-UX with statically linked executable v
+                                <!--#include virtual="/cgi-bin/asub.cgi?Amb-ux @BetaVersion@" --></FONT></TD></TR>
+
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/audioscience/<!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BetaVersion@.tar.bz2" -->"><B>
+				<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BaseName@-@BetaVersion@.tar.bz2" --></font></B></A></TD>
+
+                                <TD width=390><FONT color=#000000 size=2>Tar 
+                                Archive of AudioScience HPI Driver 
+                                <!--#include virtual="/cgi-bin/asub.cgi?Hpklinux @BetaVersion@" --></FONT></TD></TR>
+                                <TR>
+                                <TD width=230><A 
+                                href="/ftpdocs/gpio/<!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BetaVersion@.tar.gz" -->"><B>
+								<font color="#9C0001"><!--#include virtual="/cgi-bin/asub.cgi?Gpio @BaseName@-@BetaVersion@.tar.gz" --></font></B></A></TD>
+                                <TD width=390><FONT color=#000000 size=2>Tar 
+                                Archive of MeasurementComputing GPIO Driver 
+                                v0.9.6</FONT></TD></TR>
+-->
+                                </TBODY></TABLE></TD></TR></TBODY></TABLE><BR><BR>
+
+
+<!-- Previous Version Section -->
+                              <TABLE cellSpacing=0 cellPadding=0 width=750 
+                              align=center border=0>
+                                <TBODY>
+                                <TR>
+                                <TD vAlign=center align=middle><FONT 
+                                color=#000000 size=2>Previous versions are also 
+                                <a href="/ftpdocs/">available 
+                                for download.</a></FONT><BR></TD></TR>
+                                <TR>
+                                <TD>&nbsp;</TD></TR></TBODY></TABLE>
+
+
+<!-- end body... begin footer -->
+                              &nbsp;<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 align=center 
+bgColor=#9C0001 border=0 id="table11">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle><font color="#9C0001"><IMG height=4 alt="" 
+      src="Index_files/bluechip.gif" width=4 border=0></font></TD></TR></TBODY></TABLE>
+<div align="center">
+<!--#include virtual="/common/navbar.html" -->
+<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 align=center 
+bgColor=#9C0001 border=0 id="table13">
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=middle><IMG height=4 alt="" 
+      src="Index_files/bluechip.gif" width=4 border=0></TD></TR></TBODY></TABLE><FONT 
+face=Arial,san-serif color=#000000 size=1>© Copyright 2007 Paravel Systems. All rights reserved. Contact the <FONT size=1>
+<a href="mailto:webmaster@paravelsystems.com"><span style="font-size: 8pt">Webmaster</span></a></FONT> with 
+any questions or comments.</FONT> </TR></TBODY></TABLE></TR></TBODY></TABLE></TR></TBODY></TABLE></TR></TBODY></TABLE></TR></TBODY></TABLE></CENTER></BODY></HTML>
