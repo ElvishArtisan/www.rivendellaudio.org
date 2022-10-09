@@ -1,18 +1,69 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
+<html>
+<head>
   <link rel="shortcut icon" href="/images/favicon.ico" />
 
-  <TITLE>Rivendell Project Home Page LOCAL</TITLE>
-  <STYLE>
+  <title>Rivendell Radio Automation System</title>
+  <style>
+    .center {
+    text-align: center;
+    }
+    .column {
+    width: 350;
+    padding: 10;
+    text-align: left;
+    vertical-align: top;
+    color: black;
+    background-color: white;
+    font-family: arial,san-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    }
+    .copyright {
+    font-size: 8pt;
+    font-weight: normal;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+    }
+    .full-column {
+    width: 770;
+    padding: 10;
+    text-align: left;
+    vertical-align: text-top;
+    color: black;
+    background-color: white;
+    }
+    .default {
+    font-family: arial,san-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    color: black;
+    margin:0 0 0 0;
+    }
+    .footer {
+    color: white;
+    background-color: #9C0001;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800;
+    height: 4pt;
+    font-size: 2pt;
+    }
     .header {
     color: white;
     background-color: #9C0001;
+    margin-left: auto;
+    margin-right: auto;
     width: 800;
     height: 70;
     }
     .header-left {
     color: black;
+    font-family: arial,san-serif;
+    font-size: 10pt;
+    font-weight: normal;
     font-weight: bold;
     background-color: white;
     text-align: left;
@@ -22,11 +73,62 @@
     }
     .header-right {
     color: black;
+    font-family: arial,san-serif;
+    font-size: 10pt;
+    font-weight: normal;
     background-color: white;
     text-align: right;
     border: 0
     padding: 0;
     spacing: 0;
+    }
+    .section {
+    font-family: arial,san-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800;
+    color: black;
+    background-color: white;
+    padding 0;
+    }
+    .rivendell {
+    color: 9C0001;
+    font-family: arial,san-serif;
+    font-size: 18;
+    font-weight: bold;
+    }
+    .small {
+    font-size: 8pt;
+    font-weight: normal;
+    color: black;
+    }
+    .small-link {
+    font-size: 8pt;
+    font-weight: normal;
+    color: #9C0001;
+    }
+    .small-title {
+    text-align: right;
+    vertical-align: text-top
+    font-family: arial,san-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    color: #9C0001;
+    }
+    .sub-title {
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #9C0001;
+    }
+    .title {
+    text-align: center;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #9C0001;
     }
     .versions {
     border: 5px solid white;
@@ -35,72 +137,31 @@
     padding: 0;
     spacing: 0;
     }
-    .footer {
-    color: white;
-    background-color: #9C0001;
-    width: 800;
-    height: 4pt;
-    font-size: 2pt;
-    }
-    .title {
-    font-size: 12pt;
-    font-weight: bold;
+    a {
     color: #9C0001;
     }
-    .small_title {
-    font-size: 10pt;
-    font-weight: bold;
-    color: #9C0001;
-    }
-    .default {
-    font-size: 10pt;
-    font-weight: normal;
-    color: black;
-    }
-    .small {
-    font-size: 8pt;
-    font-weight: normal;
-    color: black;
-    }
-    .small_link {
-    font-size: 8pt;
-    font-weight: normal;
-    color: #9C0001;
-    }
-    .rivendell {
-    color: 9C0001;
-    font-family: arial,san-serif;
-    font-size: 18;
-    font-weight: bold;
-    }
-    td {
-    font-size: 10pt;
-    font-family: arial,sans-serif
-    }
-    p {
-    font-size: 10pt;
-    font-family: arial,sans-serif
-    }
-  </STYLE>
+  </style>
 
-  <META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
-  <META content="MSHTML 6.00.6000.16414" name=GENERATOR>
-</HEAD>
+  <meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+  <meta charset="UTF-8">
+  <meta name="keywords" content="rivendell, audio, radio, automation">
+  <meta name="author" content="Fred Gleason">
+  <meta name="description" content="Rivendell Radio Automation System">
+  <meta name="generator" content="GNU Emacs">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-<BODY text=#9C0001 vLink=#9C0001 aLink=#9C0001 link=#9C0001 
-leftMargin=0 topMargin=0 marginwidth="0" marginheight="0">
-<div align="center">
-
+<body class="default">
 <!--
   -- Page Header
   -->
-<TABLE class="header">
-  <TBODY>
-  <TR>
-    <TD>
+<table class="header">
+  <tbody>
+  <tr>
+    <td>
       <IMG src="images/Rivendell.PNG" border="0">
       Open Source Radio Automation
-    </TD>
+    </td>
 
     <td>
       &nbsp;
@@ -117,25 +178,19 @@ leftMargin=0 topMargin=0 marginwidth="0" marginheight="0">
 	</tr>
       </table>
     </td>
-  </TR>
-  </TBODY>
-</TABLE>
-</div>
+  </tr>
+  </tbody>
+</table>
 
 <!--
   -- Introduction
   -->
-<TABLE height=2 cellSpacing=0 cellPadding=0 width=800 align=center 
-bgColor=#ffffff border=0>
-  <TBODY>
-  <TR>
-    <TD vAlign=top align=middle>&nbsp;</TD></TR></TBODY></TABLE>
-<div align="center">
-<TABLE cellSpacing=0 cellPadding=0 width=770 align=center border=0>
-  <TBODY>
-  <TR>
-    <TD class="default" vAlign=top align=left width=770><BR>
-      <b class="rivendell">Rivendell</b> is a complete radio 
+<table class="section">
+  <tbody>
+  <tr>
+    <td>
+      <br>
+      <strong class="rivendell">Rivendell</strong> is a complete radio 
 	  broadcast automation solution, with facilities for the acquisition, 
 	  management, scheduling and playout of audio content. It has all of
 	  the features one would expect in a modern, fully-fledged radio
@@ -145,235 +200,240 @@ bgColor=#ffffff border=0>
 	  As a robust, functionally complete  digital audio system for
 	  broadcast radio applications, Rivendell uses industry standard
 	  components like the
-	  <A target="_blank" href="http://www.linux.org/">
+	  <a target="_blank" href="http://www.linux.org/">
 	    GNU/Linux Operating System
-	  </A>, the
-	  <A target="_blank" href="http://www.audioscience.com/">
+	  </a>, the
+	  <a target="_blank" href="http://www.audioscience.com/">
 	    AudioScience HPI Driver Architecture
-	  </A> and the
-	  <A href="http://www.mysql.org/">MySQL Database Engine</A>.
+	  </a> and the
+	  <a href="http://www.mysql.org/">MySQL Database Engine</a>.
 	  Rivendell is available under the
-	  <A target="_blank" href="http://www.fsf.org/licenses/gpl-2.0.html">
+	  <a target="_blank" href="http://www.fsf.org/licenses/gpl-2.0.html">
 	    GNU Public License version 2
-	  </A>.
-	<BR>
-    </TD>
-  </TR>
-  </TBODY>
-</TABLE>
-<BR>
+	  </a>.
+	<br>
+    </td>
+  </tr>
+  </tbody>
+</table>
+<br>
 
 <!--
   -- Two-column section
   -->
-<TABLE cellSpacing=0 cellPadding=0 width=770 align=center border=0>
-  <TBODY>
-  <TR>
+<table class="section">
+  <tbody>
+  <tr>
     <!--
       -- Left-hand column
       -->
-    <TD vAlign=top align=middle>
-      <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
-
+    <td class="column">
+      <table>
 	  <!--
 	    -- Features and Benefits
 	    -->
-        <TBODY>
-        <TR>
-          <TD class="default" vAlign=top width=400>
-            <P class="title" align=center>FEATURES and BENEFITS</P>
-            <LI>A complete GPL'ed radio automation system.<BR><BR>
-            <LI>Designed for efficient on-air use, with large, 
-            touchscreen-friendly controls.<BR><BR>
-            <LI>Up to three full automation logs may be operated from a single 
-            computer. <BR><BR>
-            <LI>Extensive support for live assist environments, with multiple 
-            SoundPanel arrays available at the touch of a finger.<BR><BR>
-            <LI>All configuration is done by means of point and click interfaces 
-            -- *no* arcane configuration files to edit!<BR><BR>
-            <LI>Support for PCM16, PCM24 and MPEG Layer 2 audio formats.<BR><BR>
-            <LI>Full support for both analog and AES3 digital audio interfaces, 
-            using high-quality audio adapters manufactured by <A 
-            href="http://www.audioscience.com/">AudioScience Inc.</A> and the <A 
+        <tbody>
+        <tr>
+	  <td class="title">FEATURES and BENEFITS</td>
+	</tr>
+	<tr>
+          <td class="column">
+            <li>A complete GPL'ed radio automation system.</li><br>
+            <li>Designed for efficient on-air use, with large,
+            touchscreen-friendly controls.<br>
+            <li>Up to three full automation logs may be operated from a single 
+            computer.</li><br>
+            <li>Extensive support for live assist environments, with multiple 
+            SoundPanel arrays available at the touch of a finger.</li><br>
+            <li>All configuration is done by means of point and click
+	      interfaces -- no arcane configuration files to edit.</li><br>
+            <li>Support for PCM16, PCM24 and MPEG Layer 2 audio formats.
+	      </li><br>
+            <li>Full support for both analog and AES3 digital audio interfaces, 
+            using high-quality audio adapters manufactured by <a 
+            href="http://www.audioscience.com/">AudioScience Inc.</a> and the <a 
             href="http://jackit.sourceforge.net/">JACK Audio Connection 
-            Kit</A>.<BR><BR>
-            <LI>Designed by radio broadcasters, for radio broadcasters.<BR><BR>
-            <LI>Completely free and open -- no dongles, unlock codes, software 
+            Kit</a>.</li><br>
+            <li>Designed by radio broadcasters, for radio broadcasters.
+	      </li><br>
+            <li>Completely free and open -- no dongles, unlock codes, software 
             keys or other arbitrary 
-            limitations.<BR><BR></LI>
-          </TD>
-        </TR>
-        </TBODY>
-      </TABLE></TD>
-    <TD vAlign=top align=right width=15></TD>
+            limitations.</li><br>
+          </td>
+        </tr>
+        </tbody>
+      </table></td>
     <!--
       --  Right-hand column
       -->
-    <TD vAlign=top align=right width=350>
-      <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+    <td class="column">
+      <table>
 	  <!--
 	    -- Documentation and Resources
 	    -->
-        <TBODY>
-        <TR>
-          <TD vAlign=top align="left">
-            <P class="title" align=center>DOCUMENTATION and RESOURCES</P>
-	    <li class="default">The Rivendell Operations and Administration
+        <tbody>
+        <tr>
+	  <td class="title">DOCUMENTATION and RESOURCES</td>
+	</tr>
+	<tr>
+          <td class="column">
+	    <li>The Rivendell Operations and Administration
 	      Guide. Available in both
 	      <a target="_blank" href="http://opsguide.rivendellaudio.org/html/">
 		online</a> and
 	      <a target="_blank" href="http://opsguide.rivendellaudio.org/">
 		printable (PDF)</a> formats.
-	      <br><br>
+	    </li><br>
 
-	    <li class="default">The
-	      <a target="_blank" href="http://wiki.rivendellaudio.org">
+	    <li>The <a target="_blank" href="http://wiki.rivendellaudio.org">
 		Rivendell Wiki</a>. Advice on installation,
 	      maintenance and best practices for all things Rivendell.
-	      <br><br>
+	    </li><br>
 
-	    <li class="default">
+	    <li>
 	      <a target="_blank" href="https://groups.io/g/Rivendell">
 		The Rivendell Mailing List</a>. Communicate with fellow
 	      Rivendell users, sharing help, tips and other
 	      information. Requires a subscription to
 	      <a target="_blank" href="https:/groups.io">Groups.io</a> (free).
-          </TD>
-        </TR>
-        </TBODY>
-      </TABLE>
-      <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+	    </li>
+          </td>
+        </tr>
+	<tr><td>&nbsp;</td></tr>
+        </tbody>
+      </table>
+      <table>
 	<!--
 	  -- Technical Specifications
 	  -->
-        <TBODY>
-        <TR>
-          <TD class="default" vAlign=top align=middle>&nbsp;<BR>
-            <P class="title" align=center>TECHNICAL SPECIFICATIONS</P>
-              <P align=left>Rivendell runs on the GNU/Linux operating system,
+        <tbody>
+        <tr>
+          <td class="column">
+            <p class="title">TECHNICAL SPECIFICATIONS</p>
+              <p>Rivendell runs on the GNU/Linux operating system,
 		and is available under the
-		<A target="_blank" href="http://www.fsf.org/licenses/gpl-2.0.html">GNU Public License version 2</A>. 
+		<a target="_blank" href="http://www.fsf.org/licenses/gpl-2.0.html">GNU Public License version 2</a>. 
 		It currently supports operation using the 5000 and 6000 series
 		of ASI Audio Adapters available from
-		<A target="_blank" href="http://www.audioscience.com/">
-		  AudioScience Inc</A> as well as 
-		the <A href="http://jackit.sourceforge.net/">
-		  Jack Audio Connection Kit</A>.
-	      </P>
-              <TABLE cellSpacing=0 cellPadding=0 width=350 align=center border=0>
-		<TBODY>
-		<TR>
-                <TD vAlign=top>
-                  <P align=left>
-		    <div class="title">
+		<a target="_blank" href="http://www.audioscience.com/">
+		  AudioScience Inc</a> as well as 
+		the <a href="http://jackit.sourceforge.net/">
+		  Jack Audio Connection Kit</a>.
+	      </p>
+              <table>
+		<tbody>
+		<tr>
+                <td>
+                  <p>
+		    <div class="sub-title">
 		      Recommended Minimum System Requirements:
 		    </div>
 		    <div class="default">
-		      &nbsp;&nbsp;&nbsp;&nbsp;Pentium i3 Processor<BR>
-		      &nbsp;&nbsp;&nbsp;&nbsp;2 GB RAM<BR>
-		      &nbsp;&nbsp;&nbsp;&nbsp;CentOS 7 Linux<BR>
-		      &nbsp;&nbsp;&nbsp;&nbsp;1024x768 or greater Video Card<BR>
-		      &nbsp;&nbsp;&nbsp;&nbsp;AudioScience Audio Adapter<BR>
-		      &nbsp;&nbsp;&nbsp;&nbsp;Mouse or other Pointing Device<BR>
+		      &nbsp;&nbsp;&nbsp;&nbsp;Pentium i3 Processor<br>
+		      &nbsp;&nbsp;&nbsp;&nbsp;2 GB RAM<br>
+		      &nbsp;&nbsp;&nbsp;&nbsp;CentOS 7 Linux<br>
+		      &nbsp;&nbsp;&nbsp;&nbsp;1024x768 or greater Video Card<br>
+		      &nbsp;&nbsp;&nbsp;&nbsp;AudioScience Audio Adapter<br>
+		      &nbsp;&nbsp;&nbsp;&nbsp;Mouse or other Pointing Device<br>
 		      &nbsp;&nbsp;&nbsp;&nbsp;Optional: Touchscreen Monitor 
 		    </div>
-		    <BR><BR>
-		  </P>
-                </TD>
-              </TR>
-              </TBODY>
-            </TABLE>
-	      <BR>
+		  </p>
+                </td>
+              </tr>
+              </tbody>
+            </table>
 	      <!--
 		-- End of two-column section
 		-->
-          </TD>
-        </TR>
-        </TBODY>
-      </TABLE>
-    </TD>
-  </TR>
-  </TBODY>
-</TABLE>
+          </td>
+        </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  </tbody>
+</table>
 
 <!--
   -- Components
   -->
-<TABLE cellSpacing=0 cellPadding=0 width=700 align=center border=0>
-  <TBODY>
-  <TR>
-    <P class="title" align=center>COMPONENTS</P>
-    <TD vAlign=top align=middle>
+<table class="section">
+  <tbody>
+  <tr>
+    <td class="title" colspan="2">COMPONENTS</td>
+  </tr>
+  <tr>
+    <td class="title">
       <table>
 	<tr>
-	  <td class="small_title" valign="top" align="right">RDAdmin</td>
-	  <td class="default" valign="top" align="left">
+	  <td class="small-title">RDAdmin</td>
+	  <td class="default">
 	    ~ comprehensive system configuration and management tool
 	  </td>
 	</tr>
 	<tr>
-	  <td class="small_title" valign="top" align="right">RDAirPlay</td>
-	  <td class="default" valign="top" align="left">
+	  <td class="small-title">RDAirPlay</td>
+	  <td class="default">
 	    ~ on-air audio play-out application
 	  </td>
 	</tr>
 	<tr>
-	  <td class="small_title" valign="top" align="right">RDCartSlots</td>
-	  <td class="default" valign="top" align="left">
+	  <td class="small-title">RDCartSlots</td>
+	  <td class="default">
 	    ~ application that emulates a multi-slot cart deck
 	  </td>
 	</tr>
 	<tr>
-	  <td class="small_title" valign="top" align="right">RDCastManager</td>
-	  <td class="default" valign="top" align="left">
+	  <td class="small-title">RDCastManager</td>
+	  <td class="default">
 	    ~ application for posting and managing podcast episodes
 	  </td>
 	</tr>
 	<tr>
-	  <td class="small_title" valign="top" align="right">RDCatch</td>
-	  <td class="default" valign="top" align="left">
+	  <td class="small-title">RDCatch</td>
+	  <td class="default">
 	    ~ automatic audio recorder and event scheduler
 	  </td>
 	</tr>
 	<tr>
-	  <td class="small_title" valign="top" align="right">RDLibrary</td>
-	  <td class="default" valign="top" align="left">
+	  <td class="small-title">RDLibrary</td>
+	  <td class="default">
 	    ~ audio acquisition and management application, for maintaining
 	    a library of audio content
 	  </td>
 	</tr>
 	<tr>
-	  <td class="small_title" valign="top" align="right">RDLogEdit</td>
-	  <td class="default" valign="top" align="left">
+	  <td class="small-title">RDLogEdit</td>
+	  <td class="default">
 	    ~ complete program log editing tool
 	  </td>
 	</tr>
 	<tr>
-	  <td class="small_title" valign="top" align="right">RDLogManager</td>
-	  <td class="default" valign="top" align="left">
+	  <td class="small-title">RDLogManager</td>
+	  <td class="default">
 	    ~ tool for integration with a wide array of third-party traffic
 	    and	music scheduling systems
 	  </td>
 	</tr>
 
       </table>
-    </TD>
-  </TR>
-  </TBODY>
-</TABLE><BR>
+    </td>
+  </tr>
+  </tbody>
+</table><br>
 
 <!--
   -- Footer
   -->
-<TABLE class="footer">
+<table class="footer">
   <tr><td>&nbsp;</td></tr>
 </table>
-<table>
+<table class="copyright">
   <tr><td class="small">
-      © Copyright 2007-2022 Paravel Systems. All rights reserved.
-      Contact the <a class="small_link" href="mailto:webmaster@paravelsystems.com">
+      Â© Copyright 2007-2022 Paravel Systems. All rights reserved.
+      Contact the <a class="small-link" href="mailto:webmaster@paravelsystems.com">
 	Webmaster</a> with any questions or comments.
   </td></tr>
 </table>
 
-</BODY></HTML>
+</body></html>

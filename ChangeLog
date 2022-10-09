@@ -6,3 +6,6 @@
 	* Refactored 'htdocs/index.shtml' to use CSS.
 2022-10-09 Fred Gleason <fredg@paravelsystems.com>
 	* Added section comments to 'htdocs/index.shtml'.
+2022-10-09 Fred Gleason <fredg@paravelsystems.com>
+	* Update <meta> tags.
+	* Lower-cased all HTML tags.
