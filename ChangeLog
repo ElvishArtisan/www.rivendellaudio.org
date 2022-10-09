@@ -2,3 +2,5 @@
 	* Initial package generation from old site.
 2022-10-08 Fred Gleason <fredg@paravelsystems.com>
 	* Added sample Apache configs in 'conf/'.
+2022-10-09 Fred Gleason <fredg@paravelsystems.com>
+	* Refactored 'htdocs/index.shtml' to use CSS.
