@@ -4,3 +4,5 @@
 	* Added sample Apache configs in 'conf/'.
 2022-10-09 Fred Gleason <fredg@paravelsystems.com>
 	* Refactored 'htdocs/index.shtml' to use CSS.
+2022-10-09 Fred Gleason <fredg@paravelsystems.com>
+	* Added section comments to 'htdocs/index.shtml'.
