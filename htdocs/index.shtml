@@ -26,21 +26,11 @@
       <IMG src="images/Rivendell.PNG" border="0">
       Open Source Radio Automation
     </td>
-
     <td>
       &nbsp;
     </td>
     <td>
-      <table class="versions">
-	<tr>
-	  <td class="header-right">Latest Production Release:</td>
-	  <td class="header-left">v3.6.6</td>
-	</tr>
-	<tr>
-	  <td class="header-right">Latest Development Release:</td>
-	  <td class="header-left">v4.0.0rc0</td>
-	</tr>
-      </table>
+      <!--#include virtual="versions.html" -->
     </td>
   </tr>
   </tbody>
@@ -83,7 +73,7 @@
 <br>
 
 <!--
-  -- Half-column section
+  -- Two column section
   -->
 <table class="section">
   <tbody>
@@ -92,10 +82,10 @@
       -- Left-hand column
       -->
     <td class="half-column">
+      <!--
+	-- Features and Benefits
+	-->
       <table>
-	  <!--
-	    -- Features and Benefits
-	    -->
         <tbody>
         <tr>
 	  <td class="title">FEATURES and BENEFITS</td>
@@ -127,50 +117,10 @@
         </tr>
         </tbody>
       </table>
-    </td>
-    <!--
-      --  Right-hand column
-      -->
-    <td class="half-column">
+      <!--
+	-- Technical Specifications
+	-->
       <table>
-	  <!--
-	    -- Documentation and Resources
-	    -->
-        <tbody>
-        <tr>
-	  <td class="title">DOCUMENTATION and RESOURCES</td>
-	</tr>
-	<tr>
-          <td>
-	    <li>The Rivendell Operations and Administration
-	      Guide. Available in both
-	      <a target="_blank" href="http://opsguide.rivendellaudio.org/html/">
-		online</a> and
-	      <a target="_blank" href="http://opsguide.rivendellaudio.org/">
-		printable (PDF)</a> formats.
-	    </li><br>
-
-	    <li>The <a target="_blank" href="http://wiki.rivendellaudio.org">
-		Rivendell Wiki</a>. Advice on installation,
-	      maintenance and best practices for all things Rivendell.
-	    </li><br>
-
-	    <li>
-	      <a target="_blank" href="https://groups.io/g/Rivendell">
-		The Rivendell Mailing List</a>. Communicate with fellow
-	      Rivendell users, sharing help, tips and other
-	      information. Requires a subscription to
-	      <a target="_blank" href="https:/groups.io">Groups.io</a> (free).
-	    </li>
-          </td>
-        </tr>
-	<tr><td>&nbsp;</td></tr>
-        </tbody>
-      </table>
-      <table>
-	<!--
-	  -- Technical Specifications
-	  -->
         <tbody>
         <tr>
           <td>
@@ -205,20 +155,89 @@
               </tr>
               </tbody>
             </table>
-	      <!--
-		-- End of two-column section
-		-->
           </td>
         </tr>
+        </tbody>
+      </table>
+    </td>
+    <!--
+      --  Right-hand column
+      -->
+    <td class="half-column">
+      <!--
+	-- Documentation and Resources
+	-->
+      <table>
+        <tbody>
+        <tr>
+	  <td class="title">DOCUMENTATION and RESOURCES</td>
+	</tr>
+	<tr>
+          <td>
+	    <li>The Rivendell Operations and Administration
+	      Guide. Available in both
+	      <a target="_blank" href="http://opsguide.rivendellaudio.org/html/">
+		online</a> and
+	      <a target="_blank" href="http://opsguide.rivendellaudio.org/">
+		printable (PDF)</a> formats.
+	    </li><br>
+
+	    <li>The <a target="_blank" href="http://wiki.rivendellaudio.org">
+		Rivendell Wiki</a>. Advice on installation,
+	      maintenance and best practices for all things Rivendell.
+	    </li><br>
+
+	    <li>
+	      <a target="_blank" href="https://groups.io/g/Rivendell">
+		The Rivendell Mailing List</a>. Communicate with fellow
+	      Rivendell users, sharing help, tips and other
+	      information. Requires a subscription to
+	      <a target="_blank" href="https:/groups.io">Groups.io</a> (free).
+	    </li>
+          </td>
+        </tr>
+	<tr><td>&nbsp;</td></tr>
+        </tbody>
+      </table>
+
+      <!--
+	-- Installation
+	-->
+      <table>
+        <tbody>
+        <tr>
+	  <td class="title">INSTALLATION</td>
+	</tr>
+	<tr>
+          <td>
+	    <p>
+	      The simplest way to install Rivendell is to use one of the
+	      Appliance installers. These install a complete software stack
+	      (operating system + applications), resulting in a dedicated
+	      workstation system that is optimally tuned for running
+	      Rivendell. See the
+	      <a href="installers.shtml">Installers page</a> for more
+	      information.
+	    </p>
+	    <p>
+	      For information on building Rivendell from source, see the
+	      <a href="building.shtml">Building from Source</a> page.
+	    </p>
+          </td>
+        </tr>
+	<tr><td>&nbsp;</td></tr>
         </tbody>
       </table>
     </td>
   </tr>
   </tbody>
 </table>
+<!--
+  -- End of two-column section
+  -->
 
 <!--
-  -- Components
+  -- Components section
   -->
 <table class="section">
   <tbody>
@@ -278,7 +297,6 @@
 	    and	music scheduling systems
 	  </td>
 	</tr>
-
       </table>
     </td>
   </tr>
