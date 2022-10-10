@@ -24,3 +24,5 @@
 	* Split out the page header into 'htdocs/common/header.html'.
 	* Moved version display into 'htdocs/common/header.html'.
 	* Split out the page footer into 'htdocs/common/footer.html'.
+2022-10-10 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'Source Code' and 'Other Radio Projects' sections.

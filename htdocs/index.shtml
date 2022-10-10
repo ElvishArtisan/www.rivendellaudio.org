@@ -109,7 +109,7 @@
         <tbody>
         <tr>
           <td>
-            <p class="title">TECHNICAL SPECIFICATIONS</p>
+            <div class="title">TECHNICAL SPECIFICATIONS</div>
               <p>Rivendell runs on the GNU/Linux operating system,
 		and is available under the
 		<a target="_blank" href="http://www.fsf.org/licenses/gpl-2.0.html">GNU Public License version 2</a>. 
@@ -195,19 +195,71 @@
 	</tr>
 	<tr>
           <td>
-	    <p>
-	      The simplest way to install Rivendell is to use one of the
-	      Appliance installers. These install a complete software stack
+	      The simplest way to install Rivendell is to use the
+	      Appliance installer. This will install a complete software stack
 	      (operating system + applications), resulting in a dedicated
 	      workstation system that is optimally tuned for running
-	      Rivendell. See the
-	      <a href="installers.shtml">Installers page</a> for more
-	      information.
+	      Rivendell. Instructions can be found at
+	      <a target="_blank" href="https://software.paravelsystems.com/howtos/CentOS/7rd3/">
+		https://software.paravelsystems.com/howtos/CentOS/7rd3/
+	      </a>.
 	    </p>
-	    <p>
-	      For information on building Rivendell from source, see the
-	      <a href="building.shtml">Building from Source</a> page.
+          </td>
+        </tr>
+	<tr><td>&nbsp;</td></tr>
+        </tbody>
+      </table>
+
+      <!--
+	-- Source Code
+	-->
+      <table>
+        <tbody>
+        <tr>
+	  <td class="title">SOURCE CODE</td>
+	</tr>
+	<tr>
+          <td>
+	      Full source code for Rivendell is available on GitHub, at
+	      <a target="_blank" href="https://github.com/ElvishArtisan/rivendell">
+		https://github.com/ElvishArtisan/rivendell
+	      </a>. An archive of source code releases from v0.9.80 to the
+	      present is available at 
+	      <a target="_blank" href="https://software.paravelsystems.com/source/rivendell">https://software.paravelsystems.com/source/rivendell</a>.
 	    </p>
+          </td>
+        </tr>
+	<tr><td>&nbsp;</td></tr>
+        </tbody>
+      </table>
+
+      <!--
+	-- Other Radio Projects
+	-->
+      <table>
+        <tbody>
+        <tr>
+	  <td class="title">OTHER RADIO PROJECTS</td>
+	</tr>
+	<tr>
+          <td>
+	    <li><a target="_blank" href="https://github.com/ElvishArtisan/drouter">Drouter</a>
+	      - Dynamic router system for Livewire audio networks.
+	    </li>
+          </td>
+        </tr>
+	<tr>
+          <td>
+	    <li><a target="_blank" href="https://github.com/ElvishArtisan/GlassCoder">GlassCoder</a>
+	      - Minimalist audio encoder for HLS, IceCast and ShoutCast streams.
+	    </li>
+          </td>
+        </tr>
+	<tr>
+          <td>
+	    <li><a target="_blank" href="https://github.com/RadioFreeAsia/GlassPlayer">GlassPlayer</a>
+	      - Minimalist audio player for HLS, IceCast and ShoutCast streams.
+	    </li>
           </td>
         </tr>
 	<tr><td>&nbsp;</td></tr>
