@@ -16,3 +16,5 @@
 	* Changed the site doctype to HTML5.
 2022-10-10 Fred Gleason <fredg@paravelsystems.com>
 	* Removed DOS-style line endings from 'htdocs/index.shtml'.
+2022-10-10 Fred Gleason <fredg@paravelsystems.com>
+	* Split out styling data into 'htdocs/rivendellaudio.css'.
