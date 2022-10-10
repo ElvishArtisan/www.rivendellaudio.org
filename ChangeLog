@@ -19,4 +19,4 @@
 2022-10-10 Fred Gleason <fredg@paravelsystems.com>
 	* Split out styling data into 'htdocs/rivendellaudio.css'.
 2022-10-10 Fred Gleason <fredg@paravelsystems.com>
-	* Split out the version display into 'htdocs/versions,html'.
+	* Split out the version display into 'htdocs/versions.html'.
