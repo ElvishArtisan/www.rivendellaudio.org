@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE HTML>
 <html>
 <head>
   <link rel="shortcut icon" href="/images/favicon.ico" />
@@ -8,9 +8,8 @@
     .center {
     text-align: center;
     }
-    .column {
-    width: 350;
-    padding: 10;
+    .half-column {
+    padding: 10px;
     text-align: left;
     vertical-align: top;
     color: black;
@@ -18,6 +17,7 @@
     font-family: arial,san-serif;
     font-size: 10pt;
     font-weight: normal;
+    width: 40%;
     }
     .copyright {
     font-size: 8pt;
@@ -27,27 +27,12 @@
     text-align: center;
     color: black;
     }
-    .full-column {
-    width: 770;
-    padding: 10;
-    text-align: left;
-    vertical-align: text-top;
-    color: black;
-    background-color: white;
-    }
-    .default {
-    font-family: arial,san-serif;
-    font-size: 10pt;
-    font-weight: normal;
-    color: black;
-    margin:0 0 0 0;
-    }
     .footer {
     color: white;
     background-color: #9C0001;
     margin-left: auto;
     margin-right: auto;
-    width: 800;
+    width: 90%;
     height: 4pt;
     font-size: 2pt;
     }
@@ -56,8 +41,7 @@
     background-color: #9C0001;
     margin-left: auto;
     margin-right: auto;
-    width: 800;
-    height: 70;
+    width: 90%;
     }
     .header-left {
     color: black;
@@ -88,7 +72,7 @@
     font-weight: normal;
     margin-left: auto;
     margin-right: auto;
-    width: 800;
+    width: 90%;
     color: black;
     background-color: white;
     padding 0;
@@ -130,6 +114,14 @@
     font-weight: bold;
     color: #9C0001;
     }
+    .top {
+    font-family: arial,san-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    color: black;
+    margin:0 0 0 0;
+    min-width: 800px;
+    }
     .versions {
     border: 5px solid white;
     border-radius: 5px;
@@ -151,7 +143,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body class="default">
+<body class="top">
 <!--
   -- Page Header
   -->
@@ -219,7 +211,7 @@
 <br>
 
 <!--
-  -- Two-column section
+  -- Half-column section
   -->
 <table class="section">
   <tbody>
@@ -227,7 +219,7 @@
     <!--
       -- Left-hand column
       -->
-    <td class="column">
+    <td class="half-column">
       <table>
 	  <!--
 	    -- Features and Benefits
@@ -237,10 +229,10 @@
 	  <td class="title">FEATURES and BENEFITS</td>
 	</tr>
 	<tr>
-          <td class="column">
+          <td>
             <li>A complete GPL'ed radio automation system.</li><br>
             <li>Designed for efficient on-air use, with large,
-            touchscreen-friendly controls.<br>
+            touchscreen-friendly controls.</li><br>
             <li>Up to three full automation logs may be operated from a single 
             computer.</li><br>
             <li>Extensive support for live assist environments, with multiple 
@@ -262,11 +254,12 @@
           </td>
         </tr>
         </tbody>
-      </table></td>
+      </table>
+    </td>
     <!--
       --  Right-hand column
       -->
-    <td class="column">
+    <td class="half-column">
       <table>
 	  <!--
 	    -- Documentation and Resources
@@ -276,7 +269,7 @@
 	  <td class="title">DOCUMENTATION and RESOURCES</td>
 	</tr>
 	<tr>
-          <td class="column">
+          <td>
 	    <li>The Rivendell Operations and Administration
 	      Guide. Available in both
 	      <a target="_blank" href="http://opsguide.rivendellaudio.org/html/">
@@ -308,7 +301,7 @@
 	  -->
         <tbody>
         <tr>
-          <td class="column">
+          <td>
             <p class="title">TECHNICAL SPECIFICATIONS</p>
               <p>Rivendell runs on the GNU/Linux operating system,
 		and is available under the
@@ -328,15 +321,13 @@
 		    <div class="sub-title">
 		      Recommended Minimum System Requirements:
 		    </div>
-		    <div class="default">
-		      &nbsp;&nbsp;&nbsp;&nbsp;Pentium i3 Processor<br>
-		      &nbsp;&nbsp;&nbsp;&nbsp;2 GB RAM<br>
-		      &nbsp;&nbsp;&nbsp;&nbsp;CentOS 7 Linux<br>
-		      &nbsp;&nbsp;&nbsp;&nbsp;1024x768 or greater Video Card<br>
-		      &nbsp;&nbsp;&nbsp;&nbsp;AudioScience Audio Adapter<br>
-		      &nbsp;&nbsp;&nbsp;&nbsp;Mouse or other Pointing Device<br>
-		      &nbsp;&nbsp;&nbsp;&nbsp;Optional: Touchscreen Monitor 
-		    </div>
+		    &nbsp;&nbsp;&nbsp;&nbsp;Pentium i3 Processor<br>
+		    &nbsp;&nbsp;&nbsp;&nbsp;2 GB RAM<br>
+		    &nbsp;&nbsp;&nbsp;&nbsp;CentOS 7 Linux<br>
+		    &nbsp;&nbsp;&nbsp;&nbsp;1024x768 or greater Video Card<br>
+		    &nbsp;&nbsp;&nbsp;&nbsp;AudioScience Audio Adapter<br>
+		    &nbsp;&nbsp;&nbsp;&nbsp;Mouse or other Pointing Device<br>
+		    &nbsp;&nbsp;&nbsp;&nbsp;Optional: Touchscreen Monitor 
 		  </p>
                 </td>
               </tr>
@@ -363,54 +354,54 @@
     <td class="title" colspan="2">COMPONENTS</td>
   </tr>
   <tr>
-    <td class="title">
-      <table>
+    <td>
+      <table class="section">
 	<tr>
 	  <td class="small-title">RDAdmin</td>
-	  <td class="default">
+	  <td>
 	    ~ comprehensive system configuration and management tool
 	  </td>
 	</tr>
 	<tr>
 	  <td class="small-title">RDAirPlay</td>
-	  <td class="default">
+	  <td>
 	    ~ on-air audio play-out application
 	  </td>
 	</tr>
 	<tr>
 	  <td class="small-title">RDCartSlots</td>
-	  <td class="default">
+	  <td>
 	    ~ application that emulates a multi-slot cart deck
 	  </td>
 	</tr>
 	<tr>
 	  <td class="small-title">RDCastManager</td>
-	  <td class="default">
+	  <td>
 	    ~ application for posting and managing podcast episodes
 	  </td>
 	</tr>
 	<tr>
 	  <td class="small-title">RDCatch</td>
-	  <td class="default">
+	  <td>
 	    ~ automatic audio recorder and event scheduler
 	  </td>
 	</tr>
 	<tr>
 	  <td class="small-title">RDLibrary</td>
-	  <td class="default">
+	  <td>
 	    ~ audio acquisition and management application, for maintaining
 	    a library of audio content
 	  </td>
 	</tr>
 	<tr>
 	  <td class="small-title">RDLogEdit</td>
-	  <td class="default">
+	  <td>
 	    ~ complete program log editing tool
 	  </td>
 	</tr>
 	<tr>
 	  <td class="small-title">RDLogManager</td>
-	  <td class="default">
+	  <td>
 	    ~ tool for integration with a wide array of third-party traffic
 	    and	music scheduling systems
 	  </td>

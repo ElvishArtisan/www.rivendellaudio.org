@@ -12,3 +12,5 @@
 2022-10-10 Fred Gleason <fredg@paravelsystems.com>
 	* Removed 'conf/wwwtest.rivendellaudio.org.conf'.
 	* Added 'conf/test.rivendellaudio.org.conf'.
+2022-10-10 Fred Gleason <fredg@paravelsystems.com>
+	* Changed the site doctype to HTML5.
