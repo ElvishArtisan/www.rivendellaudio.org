@@ -19,22 +19,7 @@
 <!--
   -- Page Header
   -->
-<table class="header">
-  <tbody>
-  <tr>
-    <td>
-      <IMG src="images/Rivendell.PNG" border="0">
-      Open Source Radio Automation
-    </td>
-    <td>
-      &nbsp;
-    </td>
-    <td>
-      <!--#include virtual="versions.html" -->
-    </td>
-  </tr>
-  </tbody>
-</table>
+<!--#include virtual="/common/header.html" -->
 
 <!--
   -- Introduction
@@ -44,28 +29,28 @@
   <tr>
     <td>
       <br>
-      <strong class="rivendell">Rivendell</strong> is a complete radio 
-	  broadcast automation solution, with facilities for the acquisition, 
-	  management, scheduling and playout of audio content. It has all of
-	  the features one would expect in a modern, fully-fledged radio
-	  automation system, including support for both PCM and MPEG audio
-	  encoding, full voicetracking and log customization as well as
-	  support for a wide variety of third party software and hardware.
-	  As a robust, functionally complete  digital audio system for
-	  broadcast radio applications, Rivendell uses industry standard
-	  components like the
-	  <a target="_blank" href="http://www.linux.org/">
-	    GNU/Linux Operating System
-	  </a>, the
-	  <a target="_blank" href="http://www.audioscience.com/">
-	    AudioScience HPI Driver Architecture
-	  </a> and the
-	  <a href="http://www.mysql.org/">MySQL Database Engine</a>.
-	  Rivendell is available under the
-	  <a target="_blank" href="http://www.fsf.org/licenses/gpl-2.0.html">
-	    GNU Public License version 2
-	  </a>.
-	<br>
+      Rivendell is a complete radio 
+      broadcast automation solution, with facilities for the acquisition, 
+      management, scheduling and playout of audio content. It has all of
+      the features one would expect in a modern, fully-fledged radio
+      automation system, including support for both PCM and MPEG audio
+      encoding, full voicetracking and log customization as well as
+      support for a wide variety of third party software and hardware.
+      As a robust, functionally complete  digital audio system for
+      broadcast radio applications, Rivendell uses industry standard
+      components like the
+      <a target="_blank" href="http://www.linux.org/">
+	GNU/Linux Operating System
+      </a>, the
+      <a target="_blank" href="http://www.audioscience.com/">
+	AudioScience HPI Driver Architecture
+      </a> and the
+      <a href="http://www.mysql.org/">MySQL Database Engine</a>.
+      Rivendell is available under the
+      <a target="_blank" href="http://www.fsf.org/licenses/gpl-2.0.html">
+	GNU Public License version 2
+      </a>.
+      <br>
     </td>
   </tr>
   </tbody>
@@ -306,15 +291,6 @@
 <!--
   -- Footer
   -->
-<table class="footer">
-  <tr><td>&nbsp;</td></tr>
-</table>
-<table class="copyright">
-  <tr><td class="small">
-      © Copyright 2007-2022 Paravel Systems. All rights reserved.
-      Contact the <a class="small-link" href="mailto:webmaster@paravelsystems.com">
-	Webmaster</a> with any questions or comments.
-  </td></tr>
-</table>
+<!--#include virtual="/common/footer.html" -->
 
 </body></html>
