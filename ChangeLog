@@ -26,3 +26,6 @@
 	* Split out the page footer into 'htdocs/common/footer.html'.
 2022-10-10 Fred Gleason <fredg@paravelsystems.com>
 	* Added 'Source Code' and 'Other Radio Projects' sections.
+2022-10-10 Fred Gleason <fredg@paravelsystems.com>
+	* Removed superfluous files from 'htdocs/images/'.
+	* Removed 'htdocs/rivendell/'.
