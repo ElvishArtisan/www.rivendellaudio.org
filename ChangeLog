@@ -31,3 +31,5 @@
 	* Removed 'htdocs/rivendell/'.
 2022-10-11 Fred Gleason <fredg@paravelsystems.com>
 	* Updated the Operations Guide links to use TLS.
+2022-10-11 Fred Gleason <fredg@paravelsystems.com>
+	* Added 'dtds/'
