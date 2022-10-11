@@ -29,3 +29,5 @@
 2022-10-10 Fred Gleason <fredg@paravelsystems.com>
 	* Removed superfluous files from 'htdocs/images/'.
 	* Removed 'htdocs/rivendell/'.
+2022-10-11 Fred Gleason <fredg@paravelsystems.com>
+	* Updated the Operations Guide links to use TLS.
