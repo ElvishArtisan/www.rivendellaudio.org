@@ -33,3 +33,5 @@
 	* Updated the Operations Guide links to use TLS.
 2022-10-11 Fred Gleason <fredg@paravelsystems.com>
 	* Added 'dtds/'
+2022-10-11 Fred Gleason <fredg@paravelsystems.com>
+	* Moved 'dtds/' to 'htdocs/'.
