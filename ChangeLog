@@ -35,3 +35,7 @@
 	* Added 'dtds/'
 2022-10-11 Fred Gleason <fredg@paravelsystems.com>
 	* Moved 'dtds/' to 'htdocs/'.
+2022-10-12 Fred Gleason <fredg@paravelsystems.com>
+	* Modified the URL for the Rivendell wiki site to use TLS.
+2022-10-12 Fred Gleason <fredg@paravelsystems.com>
+	* Updated Apache configs in 'conf/'.
