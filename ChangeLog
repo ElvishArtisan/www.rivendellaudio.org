@@ -39,3 +39,8 @@
 	* Modified the URL for the Rivendell wiki site to use TLS.
 2022-10-12 Fred Gleason <fredg@paravelsystems.com>
 	* Updated Apache configs in 'conf/'.
+2023-06-16 Fred Gleason <fredg@paravelsystems.com>
+	* Updated 'Recommended Minimum System Requirements' section for
+	Rivendell v4.x.
+	* Updated the 'INSTALLATION' section to link to the Ubuntu 22.04
+	installer.
