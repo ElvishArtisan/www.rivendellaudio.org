@@ -129,9 +129,9 @@
 		      Recommended Minimum System Requirements:
 		    </div>
 		    &nbsp;&nbsp;&nbsp;&nbsp;Pentium i3 Processor<br>
-		    &nbsp;&nbsp;&nbsp;&nbsp;2 GB RAM<br>
-		    &nbsp;&nbsp;&nbsp;&nbsp;CentOS 7 Linux<br>
-		    &nbsp;&nbsp;&nbsp;&nbsp;1024x768 or greater Video Card<br>
+		    &nbsp;&nbsp;&nbsp;&nbsp;4 GB RAM<br>
+		    &nbsp;&nbsp;&nbsp;&nbsp;Ubuntu 22.04 "Jammy Jellyfish"<br>
+		    &nbsp;&nbsp;&nbsp;&nbsp;1400x900 Video Card (1920x1080 recommended)<br>
 		    &nbsp;&nbsp;&nbsp;&nbsp;AudioScience Audio Adapter<br>
 		    &nbsp;&nbsp;&nbsp;&nbsp;Mouse or other Pointing Device<br>
 		    &nbsp;&nbsp;&nbsp;&nbsp;Optional: Touchscreen Monitor 
@@ -200,8 +200,8 @@
 	      (operating system + applications), resulting in a dedicated
 	      workstation system that is optimally tuned for running
 	      Rivendell. Instructions can be found at
-	      <a target="_blank" href="https://software.paravelsystems.com/howtos/CentOS/7rd3/">
-		https://software.paravelsystems.com/howtos/CentOS/7rd3/
+	      <a target="_blank" href="https://software.paravelsystems.com/howtos/ubuntu/jammy/">
+		https://software.paravelsystems.com/howtos/ubuntu/jammy/
 	      </a>.
 	    </p>
           </td>
